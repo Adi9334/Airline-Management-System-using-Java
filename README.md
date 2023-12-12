@@ -23,6 +23,9 @@ Airline Management System is a desktop-based application that allows a user to a
 
 i. Clone the git repo
 
+'''
+https://github.com/Adi9334/Airline-Management-System-using-Java
+'''
 
 ii. Open project folder
 
@@ -49,40 +52,6 @@ iv. Log in
 NB: Make sure dependencies are installed for the project.
 ```
 
-## 6. Demo
-
-- Login Page:
-
-![This is an image](Airline-Management-System-using-Java/Airline-Management-System-using-Java/src/screenshot/login.png)
-
-- Airline Management System Dashboard:
-
-![This is an image](src/screenshot/dashboard.png)
-
-- Add Customer Page:
-
-![This is an image](src/screenshot/add_customer.png)
-
-- Cancel Flight Page:
-
-![This is an image](src/screenshot/cancel.png)
-
-- Flight Information Page:
-
-![This is an image](src/screenshot/flight_info.png)
-
-- Journey Details Page:
-
-![This is an image](src/screenshot/journey_details.png)
-
-- Flight Payment Page:
-
-![This is an image](src/screenshot/payment.png)
-
-
-## 7. Contributing:
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 
 
