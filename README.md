@@ -9,7 +9,7 @@ Airline Management System is a desktop-based application that allows a user to a
 
 ## 2. Tech Stack:
 
-- Java 11
+- Java
 
 - MySQL
 
