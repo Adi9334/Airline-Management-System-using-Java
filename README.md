@@ -53,7 +53,7 @@ NB: Make sure dependencies are installed for the project.
 
 - Login Page:
 
-![This is an image](src/screenshot/login.png)
+![This is an image](Airline-Management-System-using-Java/src/screenshot/login.png)
 
 - Airline Management System Dashboard:
 
